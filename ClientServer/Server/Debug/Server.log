@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Шаг\ClientServer\Server\Source.cpp(72,16): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\Шаг\ClientServer\Server\Source.cpp(73,16): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+  Server.vcxproj -> D:\Шаг\ClientServer\Debug\Server.exe

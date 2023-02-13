@@ -1,0 +1,5 @@
+﻿  server2.cpp
+D:\Шаг\ClientServer\server2\server2.cpp(158,18): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\Шаг\ClientServer\server2\server2.cpp(159,18): warning C4244: '=': conversion from 'SHORT' to 'char', possible loss of data
+D:\Шаг\ClientServer\server2\server2.cpp(310,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  server2.vcxproj -> D:\Шаг\ClientServer\Debug\server2.exe
